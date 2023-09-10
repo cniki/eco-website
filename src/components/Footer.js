@@ -45,25 +45,25 @@ const Footer = () => {
                   href="tel:+91 8264954234"
                   className="mt-3 d-block mb-1 text-white"
                 >
-                  +91 8264954234
+                  +91 8278364897
                 </a>
                 <a
                   href="mailto:navdeepdahiya753@gmail.com"
                   className="mt-2 d-block mb-0 text-white"
                 >
-                  navdeepdahiya753@gmail.com
+                  chouhanniki60@gmail.com
                 </a>
                 <div className="social_icons d-flex align-items-center gap-30 mt-4">
-                  <a className="text-white" href="#">
+                  <a className="text-white" href="/">
                     <BsLinkedin className="fs-4" />
                   </a>
-                  <a className="text-white" href="#">
+                  <a className="text-white" href="/">
                     <BsInstagram className="fs-4" />
                   </a>
-                  <a className="text-white" href="#">
+                  <a className="text-white" href="/">
                     <BsGithub className="fs-4" />
                   </a>
-                  <a className="text-white" href="#">
+                  <a className="text-white" href="/">
                     <BsYoutube className="fs-4" />
                   </a>
                 </div>
@@ -112,7 +112,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-12">
               <p className="text-center mb-0 text-white">
-                &copy; {new Date().getFullYear()}; Powered by Developer's Corner
+                &copy; {new Date().getFullYear()}; Powered by Developer
               </p>
             </div>
           </div>
